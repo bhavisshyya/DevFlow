@@ -6,7 +6,8 @@ import {
   UserButton,
 } from "@clerk/nextjs";
 import "./globals.css";
-import "react";
+import React from "react";
+
 export default function RootLayout({
   children,
 }: {
