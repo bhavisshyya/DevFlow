@@ -1,9 +1,8 @@
 import {
   ClerkProvider,
   SignInButton,
-  SignedIn,
+  // SignedIn,
   SignedOut,
-  UserButton,
 } from "@clerk/nextjs";
 import { Inter, Space_Grotesk } from "next/font/google";
 import type { Metadata } from "next";
